@@ -30,7 +30,7 @@ input {
     font-weight: 500;
     font-style: normal;
     width: 100%;
-    background-image: url('public/SlideBackground.svg');
+    background-image: url('assets/SlideBackground.svg');
     background-repeat: no-repeat;
     background-size: 1266.42px 743px;
 }
